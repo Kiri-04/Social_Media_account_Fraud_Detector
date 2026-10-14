@@ -1,0 +1,20 @@
+{
+  "model": "Logistic Regression",
+  "metrics": {
+    "Train accuracy": 0.905,
+    "Accuracy": 0.878,
+    "Precision": 0.861,
+    "Recall": 0.829,
+    "F1": 0.845
+  },
+  "feature_importance": {
+    "log_followers": 0.0044,
+    "log_following": 0.1563,
+    "log_posts": 0.143,
+    "log_age_days": 0.27,
+    "follow_ratio_log": 0.0766,
+    "has_profile_pic": 0.1468,
+    "has_external_url": 0.1178,
+    "is_verified": 0.0851
+  }
+}

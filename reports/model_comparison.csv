@@ -1,0 +1,4 @@
+,Train accuracy,Accuracy,Precision,Recall,F1
+Logistic Regression,0.905,0.878,0.861,0.829,0.845
+Decision Tree,0.903,0.862,0.858,0.783,0.819
+Random Forest,1.0,0.875,0.854,0.829,0.841
